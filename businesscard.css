@@ -1,0 +1,49 @@
+* {
+    font-family: 'Open Sans';
+}
+
+div {
+    width: 450px;
+    text-align: right;
+    border: 2px solid black;
+    padding-right: 1%;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.email {
+    list-style-image: url(icons/interface.png);
+    list-style-position: inside;
+}
+
+.twitter {
+    list-style-image: url(icons/black.png);
+    list-style-position: inside;
+}
+
+.github {
+    list-style-image: url(icons/circle.png);
+    list-style-position: inside;
+}
+
+.phone {
+    list-style-image: url(icons/telephone.png);
+    list-style-position: inside;
+}
